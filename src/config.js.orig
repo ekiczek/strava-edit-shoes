@@ -1,0 +1,9 @@
+var config = {};
+
+config.strava = {};
+
+config.strava.client_id = "";
+config.strava.client_secret = "";
+config.strava.redirect_uri = "";
+
+module.exports = config;
